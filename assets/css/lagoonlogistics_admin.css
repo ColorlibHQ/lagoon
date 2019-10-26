@@ -1,0 +1,25 @@
+/*.customize-control-epsilon-text-editor .customize-control-title, .repeater-field-epsilon-text-editor .customize-control-title{*/
+/*    float: none !important;*/
+/*}*/
+
+
+/*================================================
+    Editor Style
+=================================================*/
+.wp-block-quote{
+    border: none;
+    background: rgba(130, 139, 178, 0.1);
+    margin: 25px 0;
+    padding: 30px;
+
+}
+.wp-block-quote p{
+    border-left: 2px solid #e72727;
+    padding: 25px 25px 25px 30px;
+    background: #fff;
+    line-height: 1.733;
+    color: #888888;
+    font-style: italic;
+
+}
+
